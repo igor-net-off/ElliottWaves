@@ -58,14 +58,18 @@ on either arithmetic or semilog scale.
   - Wave 4 typically ends when it is within the price range of subwave four of 3. 
   - Wave 4 often subdivides the entire impulse into Fibonacci proportion in time and/or price.
 
+### Extended impulse
+![Extended impulse](images/impulse-with-Extension.jpg)
+
 ## Diagonal
 
-![Diagonal](images/)
+### Ending diagonal
+![Diagonal](images/diagonal-ending.JPG)
 
 ### Rules
 
  - A diagonal always subdivides into five waves.
- - An ending diagonal always appears as wave5 of an impulse or wave C of a zigzag or flat.
+ - An ending diagonal always appears as wave 5 of an impulse or wave C of a zigzag or flat.
 - A leading diagonal always appears as wave1 of an impulse or wave A of a zigzag.
 - Waves 1, 2, 3,4 and 5 of an ending diagonal, and waves 2 and 4 of a leading diagonal,
 always subdivide into zigzags.
@@ -87,7 +91,7 @@ always subdivide into zigzags.
 appear to be impulses.
 - Within an impulse, if wave 1 is a diagonal, wave* is likely to be extended.
 - Within an impulse, wave 5 is unlikely to be a diagonal if wave 3 is not extended.
-- In the contracting variety, wave5 usually ends beyond the end of wave 3.
+- In the contracting variety, wave 5 usually ends beyond the end of wave 3.
 (Failure to do so is called a truncation.)
 - In the contracting variety, wave 5 usually ends at or slightly beyond a line 
 that connects the ends of waves 1 and 3. (Ending beyond that line is called a throw-over.)
