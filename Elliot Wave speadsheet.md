@@ -58,6 +58,12 @@ on either arithmetic or semilog scale.
   - Wave 4 typically ends when it is within the price range of subwave four of 3. 
   - Wave 4 often subdivides the entire impulse into Fibonacci proportion in time and/or price.
 
+### Fibonacci Ratio Relationship
+- Wave 2 is 50%, 61.8%, 76.4%, or 85.4% of wave 1
+- Wave 3 is 161.8%, 200%, 261.8%, or 323.6% of wave 1-2
+- Wave 4 is 14.6%, 23.6%, or 38.2% of wave 3 but no more than 50%
+- There are three different ways to measure wave 5. First, wave 5 is inverse 123.6 – 161.8% retracement of wave 4. Second, wave 5 is equal to wave 1. Third, wave 5 is 61.8% of wave 1-3
+
 ### Extended impulse:
 ![Extended impulse](images/impulse-with-Extension.jpg)
 
@@ -138,6 +144,12 @@ that connects the ends of waves 1 and 3.
 the end of wave B and the start of wave A.
 - (Forecasting guideline: Wave C often ends upon reaching a line drawn from
 the end of wave A that is parallel to a line connecting the start of wave A and the end of wave B.)
+### Fibonacci Ratio Relationship
+
+- Wave B = 50%, 61.8%, 76.4% or 85.4% of wave A
+- Wave C = 61.8%, 100%, or 123.6% of wave A
+- If wave C = 161.8% of wave A, wave C can be a wave 3 of a 5 waves impulse. Thus, one way to label between ABC and impulse is whether the third swing has extension or not
+
 ## Flat
 
 ### Flat in a Bull Market:
@@ -161,7 +173,58 @@ the end of wave A that is parallel to a line connecting the start of wave A and 
 - Wave C is usually between 100 and 165 percent as long as wave A.
 - Wave C usually ends beyond the end of wave A.
 
+### Fibonacci Ratio Relationship
+
+- Wave B = 90% of wave A
+- Wave C = 61.8%, 100%, or 123.6% of wave AB
+
+## Expanded Flat
+
+### Expanded Flat in a Bull Market:
+![Expanded Flat Bull](images/expanded-flat-bull.JPG)
+
+### Expanded Flat in a Bear Market:
+![Wxpanded Flat Bear](images/expanded-flat-bear.JPG)
+
+### Guidelines
+- A corrective 3 waves move labelled as ABC
+- Subdivision of wave A and B is in 3 waves
+- Subdivision of wave C is in 5 waves impulse / diagonal
+- Subdivision of wave A and B can be in any corrective 3 waves structure including zigzag, flat, double three, triple three
+- Wave B of the 3-3-5 pattern terminates beyond the starting level of wave A
+- Wave C ends substantially beyond the ending level of wave A
+- Wave C needs to have momentum divergence
+
+### Fibonacci Ratio Relationship
+
+- Wave B = 123.6% of wave A
+- Wave C = 123.6% – 161.8% of wave AB
+
+## Running Flat
+
+### Running Flat in a Bull Market:
+![Running Flat Bull](images/running-flat-bull.JPG)
+
+### Running Flat in a Bear Market:
+![Running Flat Bear](images/running-flat-bear.JPG)
+
+### Guidelines
+- A corrective 3 waves move labelled as ABC
+- Subdivision of wave A and B is in 3 waves
+- Subdivision of wave C is in 5 waves impulse / diagonal
+- Subdivision of wave A and B can be in any corrective 3 waves structure including zigzag, flat, double three, triple three
+- Wave B of the 3-3-5 pattern terminates substantially beyond the starting level of wave A as in an expanded flat
+- Wave C fails travel the full distance, falling short of the level where wave A ended
+- Wave C needs to have momentum divergence
+
+### Fibonacci Ratio Relationship
+
+- Wave B = 123.6% of wave A
+- Wave C = 61.8% – 100% of wave AB
+
 ## Contracting Triangle
+
+![Contacting Triangle](images/contracting-triangle.JPG)
 ### Rules
 - A triangle always subdivides into five waves.
 - At least four waves among waves A, B, C, D and E each subdivide into a zigzag or zigzag combination.
@@ -176,10 +239,12 @@ connecting the ends of waves B and D converges with a line connecting the ends o
 Often the effect is as if the entire triangle consisted of nine zigzags.
 - About 60 percent of the time, wave B does not end beyond the start of wave A. When it does, the triangle is called a running triangle.
 ## Barrier Triangle
+![Barrier Triangle](images/barrier-triangle.JPG)
 - A barrier triangle has the same characteristics as a contracting triangle, except that waves B and D end at essentially the same level. We have yet to observe a 9-wave barrier triangle, implying that this
 form may not extend.
 - When wave 5 follows a triangle, it is typically either a brief, rapid movement or an exceptionally long extension.
 ## Expanding Triangle
+![Expanding Triangle](images/expanding-triangle.JPG)
 ### Rules
 Most rules are the same as for contracting triangles, with these differences:
 - Wave C, D and E each moves beyond the end of the preceding same-directional subwave. 
@@ -192,6 +257,7 @@ Most guidelines are the same, with these differences:
 - Subwaves B, C and D usually retrace 105 to 125 percent of the preceding subwave.
 - No subwave has yet been observed to subdivide into a triangle.
 ## Combinations
+![Combinations](images/double-triple-three.JPG)
 ### Rules
 - Combinations comprise two (or three) corrective patterns separated by one (or two)
 corrective pattern(s) in the opposite direction, labeled X. 
@@ -208,3 +274,5 @@ the place of flats and triangles.
 - When a zigzag or flat appears too small to be the entire wave with respect to the preceding wave 
 (or, if it is to be wave 4,the preceding wave 2), a combination is likely.
 
+![Combinations1](images/combination1.JPG)
+![Combinations2](images/combination2.JPG)
