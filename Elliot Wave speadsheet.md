@@ -117,6 +117,8 @@ that connects the ends of waves 1 and 3.
 ### Zigzag in a Bull Market:
 ![Zigzag Bull](images/zigzag-bull.JPG)
 
+</br>
+
 ### Zigzag in a Bear Market:
 ![Zigzag Bear](images/zigzag-bear.JPG)
 
