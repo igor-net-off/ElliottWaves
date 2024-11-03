@@ -58,13 +58,17 @@ on either arithmetic or semilog scale.
   - Wave 4 typically ends when it is within the price range of subwave four of 3. 
   - Wave 4 often subdivides the entire impulse into Fibonacci proportion in time and/or price.
 
-### Extended impulse
+### Extended impulse:
 ![Extended impulse](images/impulse-with-Extension.jpg)
 
 ## Diagonal
 
-### Ending diagonal
-![Diagonal](images/diagonal-ending.JPG)
+### Ending diagonal:
+![Ending Diagonal](images/diagonal-ending.JPG)
+
+### Leading diagonal:
+![Leading Diagonal](images/Leading-Diagonal.jpg)
+
 
 ### Rules
 
@@ -98,9 +102,22 @@ that connects the ends of waves 1 and 3. (Ending beyond that line is called a th
 - In the expanding variety, wave 5 usually ends slightly before reaching a line 
 that connects the ends of waves 1 and 3.
 
+</br>
+
 # CORRECTIVE WAVES
 
 ## Zigzag
+
+### Zigzag in a Bull Market:
+![Zigzag Bull](images/zigzag-bull.JPG)
+
+### Zigzag in a Bear Market:
+![Zigzag Bear](images/zigzag-bear.JPG)
+
+### Double Zigzag:
+![Double Zigzag](images/double-zigzag.JPG)
+
+
 ### Rules
 
  - A zigzag always subdivides into three waves.
@@ -122,6 +139,12 @@ the end of wave B and the start of wave A.
 - (Forecasting guideline: Wave C often ends upon reaching a line drawn from
 the end of wave A that is parallel to a line connecting the start of wave A and the end of wave B.)
 ## Flat
+
+### Flat in a Bull Market:
+![Flat Bull](images/Flat-bull.JPG)
+
+### Flat in a Bear Market:
+![Flat Bear](images/Flat-bear.JPG)
 
 ### Rules
 
